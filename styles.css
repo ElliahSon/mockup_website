@@ -1,0 +1,13 @@
+body {
+ background-color: #9ACD32;
+}
+
+#logo {
+	background: url("./images/infilogo.png");
+}
+
+#transK12 {
+	position: relative;
+	margin-left: 1000px;
+	color: white;
+}
