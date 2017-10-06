@@ -1,0 +1,20 @@
+body {
+background-color: #9ACD32 ;
+}
+
+#logo {
+ background: transparent url("images/infilogo.png");
+ height: 150px;
+ width: 259px;
+ margin-left: 30px;
+ color: white;
+}
+
+#transK12 {
+    position: relative;
+ margin-top: 40px;
+    margin-left: 700px;
+    color: white;
+ height: 100px;
+ width: 500px;
+}
