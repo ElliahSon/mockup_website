@@ -3,7 +3,7 @@ body {
 }
 
 #logo {
- 	background: transparent url("images/infilogo.png");
+ 	background: transparent url("./images/infilogo.png");
  	height: 150px;
  	width: 259px;
 	 margin-left: 30px;
