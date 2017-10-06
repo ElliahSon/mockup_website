@@ -1,20 +1,51 @@
 body {
-background-color: #9ACD32 ;
+	background-color: #9ACD32 ;
 }
 
 #logo {
- background: transparent url("images/infilogo.png");
- height: 150px;
- width: 259px;
- margin-left: 30px;
- color: white;
+ 	background: transparent url("images/infilogo.png");
+ 	height: 150px;
+ 	width: 259px;
+	 margin-left: 30px;
+	 color: white;
 }
 
 #transK12 {
     position: relative;
- margin-top: 40px;
+ 	margin-top: 40px;
     margin-left: 700px;
     color: white;
- height: 100px;
- width: 500px;
+ 	height: 100px;
+ 	width: 500px;
+}
+
+#content {
+	position: relative;
+	margin-top: auto;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 100px;
+	border-style: hidden;
+	background-color: white;
+
+}
+
+#logInfiniteCampus {
+	color: blue;
+}
+
+#signIn {
+	color: blue;
+}
+
+#problems {
+	color: blue;
+}
+
+#more {S
+	color: blue;
+}
+
+#english, #inc, #com {
+	margin-left: 500px;	
 }
